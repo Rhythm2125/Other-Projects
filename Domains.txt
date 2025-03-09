@@ -1,7 +1,5 @@
 Traveltrek: https://traveltrek-zeta.vercel.app/
 
 HealthifyMe:-
-
 For Users:https://healthifymee.vercel.app/
-
 For Doctors:https://healthifymedoctor.vercel.app/
