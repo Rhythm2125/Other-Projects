@@ -13,9 +13,7 @@ However, you are welcome to **check out** and **explore** the repository to unde
 ### 1. **HealthifyMe**
 HealthifyMe is a comprehensive healthcare management platform designed to connect patients, doctors, and healthcare providers through a seamless and intuitive interface. It facilitates appointment booking,        medical record management, and remote consultations to enhance patient care.
 
-🌐 **Checkout my WebApp**:
-- For Users: [HealthifyMe](https://healthifymee.vercel.app/)
-- For Doctors: [HealthifyMe Doctor](https://healthifymedoctor.vercel.app/)
+🌐 **Checkout my WebApp**: [HealthifyMe](https://healthifymee.vercel.app/)
 
 ### 2. **Traveltrek**
 Your one-stop travel planner for all your adventures!
