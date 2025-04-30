@@ -8,7 +8,7 @@ HealthifyMe is a comprehensive healthcare management platform designed to connec
 ### 2. **Traveltrek**
 Your one-stop travel planner for all your adventures!
 
-🌐 **Checkout my Website**: [TravelTrek](https://traveltrek-zeta.vercel.app/)
+🌐 **Checkout my WebApp**: [TravelTrek](https://traveltrek-zeta.vercel.app/)
 
 ## Contact
 
